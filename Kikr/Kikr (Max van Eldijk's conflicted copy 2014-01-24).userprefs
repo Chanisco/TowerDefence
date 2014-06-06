@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\..\Desktop\Kikr\Assets\Scripts\MouseOver.cs">
+    <Files>
+      <File FileName="..\..\..\..\..\Desktop\Kikr\Assets\Scripts\Bullet.cs" Line="7" Column="19" />
+      <File FileName="..\..\..\..\..\Desktop\Kikr\Assets\Scripts\TowerLookat.cs" Line="28" Column="5" />
+      <File FileName="..\..\..\..\..\Desktop\Kikr\Assets\Scripts\TowerLookatPlayer.cs" Line="15" Column="22" />
+      <File FileName="..\..\..\..\..\Desktop\Kikr\Assets\Scripts\LvlGate.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\..\Desktop\Kikr\Assets\Scripts\EnemyCollision.cs" Line="27" Column="21" />
+      <File FileName="..\..\..\..\..\Desktop\Kikr\Assets\Scripts\Spawner.cs" Line="6" Column="18" />
+      <File FileName="..\..\..\..\..\Desktop\Kikr\Assets\Scripts\Spawner2.cs" Line="6" Column="19" />
+      <File FileName="..\..\..\..\..\Desktop\Kikr\Assets\Scripts\SpawnSelf.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\..\Desktop\Kikr\Assets\Scripts\Global.cs" Line="11" Column="36" />
+      <File FileName="..\..\..\..\..\Desktop\Kikr\Assets\Scripts\MouseOver.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

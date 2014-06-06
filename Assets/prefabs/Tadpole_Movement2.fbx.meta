@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 15fd3ab0c21134868826d8578de856cb
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: 10
+    100002: 11
+    100004: 12
+    100006: 13
+    100008: 2
+    100010: 3
+    100012: 4
+    100014: 5
+    100016: 6
+    100018: 7
+    100020: 8
+    100022: 9
+    100024: Eye
+    100026: Eye_2
+    100028: Eye_3
+    100030: HyperNURBS
+    100032: HyperNURBS_1
+    100034: Joint_1
+    100036: Joints
+    100038: Null
+    100040: Original
+    100042: Skin
+    100044: Skin_2
+    100046: Symmetry
+    100048: Symmetry_2
+    100050: Tadpole
+    100052: Tadpole_1
+    100054: Tadpole_2
+    100056: Tadpole_3
+    100058: //RootNode
+    400000: 10
+    400002: 11
+    400004: 12
+    400006: 13
+    400008: 2
+    400010: 3
+    400012: 4
+    400014: 5
+    400016: 6
+    400018: 7
+    400020: 8
+    400022: 9
+    400024: Eye
+    400026: Eye_2
+    400028: Eye_3
+    400030: HyperNURBS
+    400032: HyperNURBS_1
+    400034: Joint_1
+    400036: Joints
+    400038: Null
+    400040: Original
+    400042: Skin
+    400044: Skin_2
+    400046: Symmetry
+    400048: Symmetry_2
+    400050: Tadpole
+    400052: Tadpole_1
+    400054: Tadpole_2
+    400056: Tadpole_3
+    400058: //RootNode
+    2300000: Eye_2
+    2300002: Tadpole_2
+    3300000: Eye_2
+    3300002: Tadpole_2
+    4300000: Eye
+    4300002: Tadpole
+    4300004: Tadpole_2
+    4300006: Eye_2
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    13700000: Eye
+    13700002: Tadpole
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 
